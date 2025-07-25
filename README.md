@@ -1,21 +1,21 @@
-# 🌍 ChècheKonnen - Site Vitrine de l’Association
+#  ChècheKonnen - Site Vitrine de l’Association
 
 **ChècheKonnen** est une plateforme web construite avec [React](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/) et [Vite](https://vitejs.dev/).  
 Elle vise à promouvoir la **philosophie**, la **culture haïtienne** et la **spiritualité**, à travers des **articles**, des **podcasts** et une **carte interactive d’Haïti**.
 
 ---
 
-## ✨ Fonctionnalités prévues
+##  Fonctionnalités prévues
 
-- 📖 Affichage d’articles culturels haïtiens
-- 🎧 Lecteur de podcasts spirituels
-- 🗺️ Carte interactive avec récits géolocalisés
-- ⚡ Chargement rapide grâce à Vite
-- 🔐 Respect de la vie privée (aucune donnée personnelle collectée)
+-  Affichage d’articles culturels haïtiens
+-  Lecteur de podcasts spirituels
+-  Carte interactive avec récits géolocalisés
+-  Chargement rapide grâce à Vite
+-  Respect de la vie privée (aucune donnée personnelle collectée)
 
 ---
 
-## 🧱 Stack Technique
+##  Stack Technique
 
 - [React](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
@@ -24,7 +24,7 @@ Elle vise à promouvoir la **philosophie**, la **culture haïtienne** et la **sp
 
 ---
 
-## 🚀 Lancer le projet en local
+## Lancer le projet en local
 # Installer les dépendances
 npm install
 
